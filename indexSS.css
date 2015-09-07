@@ -1,0 +1,76 @@
+body{
+    background-image: url("bluehaze.jpg");
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: #003333;
+    font-weight: bolder;
+    font-size: 380%;
+    
+    text-align: center;
+        
+        
+}
+h2 {
+	text-align: center;
+	font-weight: bolder;
+    font-size: 180%;
+   
+    text-align: center;
+    color: #003333;
+}
+
+table {
+	
+	text-align: center;
+	font-size: 180%;
+	border: 0;
+	width: 80%;
+	margin-left:auto; 
+    margin-right:auto;
+	
+}
+
+tr:nth-child(odd) {
+    background-color: #33CCFF;
+}
+
+
+p{
+    color: navy;
+    font-size: 220%;
+    
+    text-align: center;
+}
+
+ul {
+    color: #4B0082;
+    font-size: 120%;
+    
+}
+
+ol {
+    color: #4B0082;
+    font-size: 120%;
+    
+}
+
+div {
+	color: navy;
+	font-size: 220%;
+	
+	font-style: italic;
+	display: block;
+	text-align: center;
+}
+	
+a:hover {
+    color: #FF00FF;
+}
+
+.red {
+	color: #880000;
+	font-weight: bolder;
+}	
